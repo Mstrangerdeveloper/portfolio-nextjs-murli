@@ -59,22 +59,22 @@ const services: IServiceItem[] = [
     description:
       "I collaborate to define clear goals, target audiences, and a success roadmap. My expertise in product ideation and market analysis ensures your product meets user needs and aligns with your business strategy for long-term growth and full potential realization. Drive your product's success with strategic planning.",
   },
+  // {
+  //   id: 5,
+  //   title: "DevOps",
+  //   icons: [
+  //     "/skills/docker.svg",
+  //     "/skills/kubernetes.svg",
+  //     "/skills/aws.svg",
+  //     "/skills/jenkins.svg",
+  //     "/skills/terraform.svg",
+  //   ],
+  //   shortDescription: "I streamline development and operations processes.",
+  //   description:
+  //     "I streamline development and operations processes through effective DevOps practices. I implement continuous integration and deployment pipelines, manage cloud infrastructure, and use containerization to ensure efficient, reliable, and scalable software delivery. Improve your workflow with DevOps solutions.",
+  // },
   {
     id: 5,
-    title: "DevOps",
-    icons: [
-      "/skills/docker.svg",
-      "/skills/kubernetes.svg",
-      "/skills/aws.svg",
-      "/skills/jenkins.svg",
-      "/skills/terraform.svg",
-    ],
-    shortDescription: "I streamline development and operations processes.",
-    description:
-      "I streamline development and operations processes through effective DevOps practices. I implement continuous integration and deployment pipelines, manage cloud infrastructure, and use containerization to ensure efficient, reliable, and scalable software delivery. Improve your workflow with DevOps solutions.",
-  },
-  {
-    id: 6,
     title: "Database Management",
     icons: [
       "/skills/mysql.svg",

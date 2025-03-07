@@ -104,16 +104,16 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Intermediate,
         icon: "/skills/mongodb.svg",
       },
-      {
-        title: "PostgreSQL",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/postgresql.svg",
-      },
-      {
-        title: "MySQL",
-        level: SkillLevel.Beginner,
-        icon: "/skills/mysql.svg",
-      },
+      // {
+      //   title: "PostgreSQL",
+      //   level: SkillLevel.Intermediate,
+      //   icon: "/skills/postgresql.svg",
+      // },
+      // {
+      //   title: "MySQL",
+      //   level: SkillLevel.Beginner,
+      //   icon: "/skills/mysql.svg",
+      // },
     ],
   },
   {
@@ -124,11 +124,11 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Beginner,
         icon: "/skills/docker.png",
       },
-      {
-        title: "AWS",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/aws.svg",
-      },
+      // {
+      //   title: "AWS",
+      //   level: SkillLevel.Intermediate,
+      //   icon: "/skills/aws.svg",
+      // },
       {
         title: "Git",
         level: SkillLevel.Expert,
